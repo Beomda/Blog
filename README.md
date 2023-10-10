@@ -1,6 +1,5 @@
 # Blog
 <div align="center">
-<b>Blog</b><br>
  프로젝트 기간: 2023.10.10 ~ 
 </div>
 
