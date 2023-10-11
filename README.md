@@ -19,13 +19,6 @@
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-### Communication Tool
-![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![githubactions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-
 
 ## Service Menual
 
